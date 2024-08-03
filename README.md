@@ -5,7 +5,7 @@ PantryPeek is a web application that helps you keep track of your pantry invento
 - Add Items: Easily add new items to your pantry with their name, category, and quantity.
 - Remove Items: Remove items from your pantry, either completely or decrement their quantity.
 - Search Functionality: Search through your pantry items by name or category.
-- Low Quantity Reminders: Get notifications for items that are running low in quantity.
+- Low Quantity Reminders: Get quick reminders for items that are running low in quantity.
 
 ## Tech Stack
 - React: Front-end framework used for building the user interface.
