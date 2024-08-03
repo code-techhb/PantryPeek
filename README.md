@@ -19,4 +19,4 @@ PantryPeek is a web application that helps you keep track of your pantry invento
 - Low Quantity Reminders: Click the "Reminder" button in the sidebar to see items with low quantities.
 
 ## What to expect 
-[ link coming soon ]
+Check this video out: https://youtu.be/2Mwc8rDvYZ4
