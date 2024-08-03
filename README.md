@@ -8,7 +8,7 @@ PantryPeek is a web application that helps you keep track of your pantry invento
 - Low Quantity Reminders: Get quick reminders for items that are running low in quantity.
 
 ## Tech Stack
-- React: Front-end framework used for building the user interface.
+- Next.js: React framework used for building the application.
 - Firebase Firestore: Used for storing pantry data.
 - Material-UI: Component library used for styling and UI components.
 
